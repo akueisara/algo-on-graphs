@@ -8,3 +8,11 @@ Assignments in Java, C++, Python for Algorithms on Graphs on Coursera
 ### Programming Assignment 1: Decomposition of Graphs
 Problem: [Finding an Exit from a Maze](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%201/reachability) </br>
 Problem: [Adding Exits to a Maze](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%201/connected_components) </br>
+
+## Week 2
+[Study Notes](https://gist.github.com/akueisara/120d8d5b4e1a663c606987b00e6c3c15)
+### Programming Assignment 2: Decomposition of Graphs
+Problem: [Checking Consistency of CS Curriculum](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%202/acyclicity) </br>
+Problem: [Determining an Order of Courses](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%202/toposort) </br>
+Advanced Problem: [Checking Whether Any Intersection in a City
+is Reachable from Any Other](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%202/strongly_connected) </br>
