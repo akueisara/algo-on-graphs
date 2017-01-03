@@ -16,3 +16,9 @@ Problem: [Checking Consistency of CS Curriculum](https://github.com/akueisara/al
 Problem: [Determining an Order of Courses](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%202/toposort) </br>
 Advanced Problem: [Checking Whether Any Intersection in a City
 is Reachable from Any Other](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%202/strongly_connected) </br>
+
+## Week 3
+[Study Notes](https://gist.github.com/akueisara/4d274697d5553837a1973a42d31a2224)
+### Programming Assignment 3: Paths in Graphs
+Problem: [Computing the Minimum Number of Flight Segments](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%203/bfs) </br>
+Problem: [Checking whether a Graph is Bipartite](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%203/bipartite) </br>
