@@ -27,5 +27,5 @@ Problem: [Checking whether a Graph is Bipartite](https://github.com/akueisara/al
 [Study Notes](https://gist.github.com/akueisara/00e76a5552e41be21b6838cbfcea4b6c)
 ### Programming Assignment 4: Paths in Graphs
 Problem: [Computing the Minimum Cost of a Flight](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%204/dijkstra) </br>
-Problem: [Detecting Anomalies in Currency Exchange Rates](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%204/negative cycle) </br>
+Problem: [Detecting Anomalies in Currency Exchange Rates](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%204/negative_cycle) </br>
 Advanced Problem: [Exchanging Money Optimally](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%204/shortest_paths) </br>
