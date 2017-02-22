@@ -29,3 +29,9 @@ Problem: [Checking whether a Graph is Bipartite](https://github.com/akueisara/al
 Problem: [Computing the Minimum Cost of a Flight](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%204/dijkstra) </br>
 Problem: [Detecting Anomalies in Currency Exchange Rates](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%204/negative_cycle) </br>
 Advanced Problem: [Exchanging Money Optimally](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%204/shortest_paths) </br>
+
+## Week 5
+[Study Notes](https://gist.github.com/akueisara/42c7b82c43fb2a1ca78303b1624fa7c7)
+### Programming Assignment 5: Minimum Spanning Trees
+Problem: [Building Roads to Connect Cities](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%205/connecting_points) </br>
+Problem: [Clustering](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%205/clustering) </br>
