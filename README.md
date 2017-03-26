@@ -35,3 +35,8 @@ Advanced Problem: [Exchanging Money Optimally](https://github.com/akueisara/algo
 ### Programming Assignment 5: Minimum Spanning Trees
 Problem: [Building Roads to Connect Cities](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%205/connecting_points) </br>
 Problem: [Clustering](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%205/clustering) </br>
+
+## Week 6
+### Programming Assignment 6: Advanced Shortest Paths
+Problem: [Friend Suggestion](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%206/friend_suggestion) </br>
+Problem: [Compute Distance Faster Using Coordinates](https://github.com/akueisara/algorithms-on-graphs/tree/master/week%206/dist_with_coords) </br>
