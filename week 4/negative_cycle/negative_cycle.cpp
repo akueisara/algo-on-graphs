@@ -15,7 +15,7 @@ int negative_cycle(vector<vector<int> > &adj, vector<vector<int> > &cost) {
     for(int u = 0; u < adj.size(); u++){
 	  for (int k = 0; k < adj[u].size(); k++) {
 	    int v = adj[u][k];
-	    if(dist[v] > dist[u] + cost[u][k]) {
+	    if(dist[u] != inf && dist[v] > dist[u] + cost[u][k]) {
 		    dist[v] = dist[u] + cost[u][k];
 			if(i == adj.size() - 1) 
 			  return 1;
